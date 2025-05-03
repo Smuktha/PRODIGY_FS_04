@@ -52,7 +52,7 @@ A real-time chat application built using **Next.js**, **TypeScript**, **Socket.I
    ```bash
    git clone https://github.com/Smuktha/PRODIGY_FS_04.git
    cd PRODIGY_FS_04
-````
+
 
 2. Install dependencies:
 
