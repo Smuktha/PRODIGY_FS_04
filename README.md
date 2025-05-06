@@ -26,8 +26,7 @@ A real-time chat application built using **Next.js**, **TypeScript**, **Socket.I
 
 ## 📁 Folder Structure
 
-```
-
+``
 ├── app/
 │   ├── login/
 │   ├── register/
