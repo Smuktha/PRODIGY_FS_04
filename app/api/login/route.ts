@@ -4,7 +4,7 @@ import { NextResponse } from 'next/server';
 
 // Sample users (in a real-world app, fetch from a database)
 const users = [
-  {
+  {. 
     email: 'user@example.com',
     password: 'password123', // In real-world apps, you should hash passwords
   },
