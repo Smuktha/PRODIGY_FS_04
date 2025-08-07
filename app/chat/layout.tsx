@@ -1,4 +1,4 @@
-// app/chat/layout.tsx 
+// app/chat/layout.tsx  
  
 import React from 'react';
 import { SocketProvider } from '../../context/SocketContext';
