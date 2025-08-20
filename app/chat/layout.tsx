@@ -1,5 +1,5 @@
 // app/chat/layout.tsx   
-    
+    v
 import React from 'react';
 import { SocketProvider } from '../../context/SocketContext';
 
