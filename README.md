@@ -1,4 +1,4 @@
-# PRODIGY_FS_04 - Real-time Chat Application 💬  
+# PRODIGY_FS_04 - Real-time Chat Application 💬   
 
 This project is part of the **Prodigy InfoTech Full Stack Web Development Internship**. 
 
