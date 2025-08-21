@@ -42,7 +42,6 @@ A real-time chat application built using **Next.js**, **TypeScript**, **Socket.I
 ├── public/
 ├── styles/
 └── ...
-
 ````
 
 ## ⚙️ Setup Instructions
